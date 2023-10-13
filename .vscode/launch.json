@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Strapi: debug",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run develop"
+    }
+  ]
+}
